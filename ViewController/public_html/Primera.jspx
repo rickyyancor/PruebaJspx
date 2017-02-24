@@ -18,7 +18,9 @@
                 <af:panelBox text="" id="pb1">
                     <f:facet name="toolbar"/>
                 </af:panelBox>
+                <af:selectBooleanCheckbox text="selectBooleanCheckbox 2" label="Checkbox" id="sbc2" selected="true"/>
             </af:form>
+            <af:selectBooleanCheckbox text="selectBooleanCheckbox 1" label="Label 1" id="sbc1"/>
         </af:document>
     </f:view>
 </jsp:root>
